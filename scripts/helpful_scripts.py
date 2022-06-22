@@ -7,7 +7,6 @@ FORKED_ENVS = ["mainnet-fork", "mainnet-fork-dev", "avax-main-fork"]
 LOCAL_DEVELOPMENT_ENVS = [
     "mainnet-fork",
     "development",
-    "Ganache-local",
 ]
 
 
